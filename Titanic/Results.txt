@@ -1,0 +1,11 @@
+Base Line Classifier
+0.6182
+
+Precision: 78.84% - kNN (LabelEncoder [1, 2, 4, 5] + One_Hot_Encoder + Escalonamento)
+Precision: 79.67% - kNN (LabelEncoder [1, 2, 5]+ One_Hot_Encoder + Escalonamento)
+Precision: 80.08% - kNN (LabelEncoder [1, 4, 5]+ One_Hot_Encoder + Escalonamento)
+Precision: 80.08% - kNN (LabelEncoder [1, 5]+ One_Hot_Encoder + Escalonamento)
+
+Precision: 84.69% - kNN (Label_Encoder + One_Hot_Encoder)
+
+Precision: 88.04%- kNN (Label_Encoder + Escalonamento) (Test data and Train data)
