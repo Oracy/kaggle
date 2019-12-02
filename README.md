@@ -1,3 +1,3 @@
 # Kaggle Submissions
 
-[Titanic](./Titanic/kNN_Titani_Submission.ipynb)
+[Titanic](./Titanic/kNN_Titanic_Submission.ipynb)
